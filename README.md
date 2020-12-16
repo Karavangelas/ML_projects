@@ -11,4 +11,4 @@ Machine learning projects
 ### This is a project tf_agents to train an agent to be able to play a game named Assault.
 
 # cars_data_cleaning
-### This is a project that performs basic data cleaning and feature engineering on the cars_india.csv.
+### This is a project that performs basic data cleaning, feature engineering and conversion of data to the SI metric system on the cars_india.csv.
